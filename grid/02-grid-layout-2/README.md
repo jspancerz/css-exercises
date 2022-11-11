@@ -10,7 +10,7 @@ For this exercise, we are going to take our Holy Grail Layout from the first exe
 
 When the browser is narrow:
 
-![desired outcome narrow](./desired-outcome-narrow.png)
+![desired outcome narrow](./deill sired-outcome-narrow.png)
 
 When the browser is stretched wide:
 
@@ -25,3 +25,5 @@ When the browser is stretched wide:
 - The third row is five times larger than the others
 - The rows and columns stretch wider when making the browser window bigger
 - The rows and columns stretch taller when making the browser window smaller
+
+ 
